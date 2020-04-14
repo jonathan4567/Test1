@@ -1,4 +1,4 @@
-{
+{"publishConfig": { "registry": "https://npm.pkg.github.com/" },
 	"name": "fcc-learn-npm-package-json",
   "author": "Jonathan",
 	"dependencies": {
